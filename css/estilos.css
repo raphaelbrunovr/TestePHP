@@ -1,0 +1,71 @@
+.form-m{
+	width:50%;
+	margin:0 auto;
+}
+.jumbotron{
+	background-color:#636;
+	color:#fff;
+
+}
+.navbar {
+      font-family: Montserrat, sans-serif;
+      margin-bottom: 0;
+	  background-color:#636;
+
+      border: 0;
+      font-size: 11px !important;
+      letter-spacing: 2px;
+      opacity: 0.9;
+  }
+  .navbar li a, .navbar .navbar-brand { 
+      color: #d5d5d5 !important;
+  }
+  .navbar-brand img{
+  	  margin-top:-10px;
+  }
+  .navbar-nav li a:hover {
+      color: #fff !important;
+  }
+  .navbar-nav li.active a {
+      color: #fff !important;
+      background-color: #29292c !important;
+  }
+  .navbar-default .navbar-toggle {
+      border-color: transparent;
+  }
+  .open .dropdown-toggle {
+      color: #fff;
+      background-color: #553355 !important;
+  }
+  .dropdown-menu li a {
+      color: #000 !important;
+  }
+  .dashboard > .row{
+	  margin-top:80px;
+  }
+  .panel-login {
+  border-color: #ddd;
+  }
+  .panel-login > .panel-heading {
+  color: #fff;
+  background-color: #764876;
+  border-color: #ddd;
+  }
+  .open .dropdown-toggle-actions {
+      color: #fff;
+      background-color: #666 !important;
+  }
+  .dropdown > .dropdown-menu li a:hover {
+      background-color: #333 !important;
+	  color:#fff !important;
+  }
+  .file{
+  	height:34px !important;
+  }
+  .container > h1,h2,h3,h4,h5{
+  	margin-left:20px;
+	margin-bottom:-5px;
+  }
+  .align{
+  	margin-top:20px;
+  }
